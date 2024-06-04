@@ -24,8 +24,3 @@ The repository includes solutions for the following projects:
 ## Disclaimer
 This repository is intended to be a reference for those who have completed the course and want to review the projects. **Do not use these solutions for submitting your own work to the course**. Always follow CS50's [Academic Honesty](https://cs50.harvard.edu/web/2020/honesty/) guidelines.
 
-## Usage
-To use these solutions, clone the repository to your local machine:
-
-```sh
-git clone https://github.com/yourusername/cs50-web-solutions.git
